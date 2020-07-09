@@ -4,6 +4,11 @@ Welcome to Document, a Gatsby.js theme by [Code Bushi](https://codebushi.com/gat
 
 👀 [View the Live Demo](https://gatsby-theme-document.netlify.com/)
 
+## Deployment
+```bash
+npm run deploy
+```
+
 ## Getting Started
 
 Using the Gatsby CLI
